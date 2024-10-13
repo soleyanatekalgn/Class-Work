@@ -1,0 +1,6 @@
+AA312 is a valid code
+AA1298 is a valid code
+NW1234 is an invalid code
+US443 is an invalid code
+US31344 is an invalid code
+AA123 extratext is an invalid code
